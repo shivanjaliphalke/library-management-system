@@ -1,2 +1,2 @@
 Library Management System
-Valid for "one book listing"
+Valid for "one book name listing"
